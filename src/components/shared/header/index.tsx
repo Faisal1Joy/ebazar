@@ -27,7 +27,7 @@ const Header = async () => {
             </Link>
           </Button>
           <Button asChild>
-            <Link href="/signin">
+            <Link href="/api/auth/signin">
               <UserIcon />
               Sign In
             </Link>
